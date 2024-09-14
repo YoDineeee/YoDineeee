@@ -1,6 +1,5 @@
 # 🤙 Sup
- I am a dedicated software engineering student with a strong passion for Back-end and DevOps engineering. I am constantly seeking opportunities to expand my knowledge and skills, driven by a relentless curiosity and a commitment to continuous learning.
-
+ I am an engineer at heart, and a lifelong student by choice. Driven by curiosity, I approach every challenge as an opportunity to learn, grow, and innovate.
 
 ## 🌐 Socials
 [![LinkedIn]](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-dhiaeddine-hassinemotu/)
